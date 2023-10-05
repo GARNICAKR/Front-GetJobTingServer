@@ -17,10 +17,10 @@
               glossy
               rounded
               class="shadow-12"
-              icon="fa-solid fa-user"
+              icon="fa-solid fa-house"
               color="white"
-              label="Inicia Sesion"
-              to="/login"
+              label="Inicio"
+              to="/"
             >
             </q-btn>
           </div>
@@ -102,7 +102,7 @@
                 push
                 size="lg"
                 class="q-mt-sm"
-                href="https://github.com/GARNICAKR/GetJobTingServer"
+                href="https://github.com/GARNICAKR/Front-GetJobTingServer"
                 target="_blank"
               >
               </q-btn>
